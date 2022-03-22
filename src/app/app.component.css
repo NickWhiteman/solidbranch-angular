@@ -1,0 +1,27 @@
+.card-border {
+    margin: 0 auto;
+    height: max-content;
+    width: 500px;
+    margin-top: 100px;
+    border: 5px solid rgb(104, 84, 84);
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+a {
+    color: white;
+}
+
+a:focus {
+    color: rgb(122, 38, 38);
+}

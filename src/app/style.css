@@ -1,0 +1,14 @@
+.table {
+    text-align: center;
+}
+
+.row {
+    display: table-row;
+    width: 495px;
+}
+
+.tabs-group {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
